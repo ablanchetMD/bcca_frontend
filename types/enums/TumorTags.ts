@@ -1,0 +1,1 @@
+export const tumorTags = ["DLBCL","Follicular Lymphoma","Multiple Myeloma","Amyloidosis","Marginal Zone Lymphoma","MZL","Mantle Cell Lymphoma","Hodgkin Lymphoma","Diffuse Large B Cell Lymphoma","CNS Lymphoma"];
